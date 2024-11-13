@@ -1,6 +1,6 @@
 # Brain Tumor Classification
 
-7th Semester Project | Chandigarh University
+## 7th Semester Project | Chandigarh University
 This project provides a web application for classifying brain MRI images to detect the presence of tumors using machine learning.
 
 ![Project Screenshot](screenshot.png)
